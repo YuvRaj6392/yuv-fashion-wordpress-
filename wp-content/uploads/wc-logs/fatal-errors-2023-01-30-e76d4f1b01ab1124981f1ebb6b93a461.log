@@ -1,0 +1,2 @@
+2023-01-30T06:37:15+00:00 CRITICAL Out of memory (allocated 67108864) (tried to allocate 32768 bytes) in C:\xampp\htdocs\wordpress\wp-includes\assets\script-loader-packages.min.php on line 1
+
